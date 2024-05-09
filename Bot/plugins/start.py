@@ -22,15 +22,15 @@ LINK = [
 BUTTONS_DEV = IKM(
     [
         [
-            IKB('ᴅᴇᴠᴇʟᴏᴘᴇʀ', url='https://t.me/sohailkhan_indianime'),
-            IKB('ɢɪᴛʜᴜʙ', url = 'https://github.com/soheru')
+            IKB('ᴅᴇᴠᴇʟᴏᴘᴇʀ', url='https://t.me/Officialcreater'),
+            IKB('ɢɪᴛʜᴜʙ', url = 'https://github.com/')
         ],
         [
-            IKB('ᴡᴇʙsɪᴛᴇ', url='https://soheru.in'),
-            IKB('ᴄʜᴀɴɴᴇʟ', url='https://t.me/aboutmesk'),
+            IKB('ᴡᴇʙsɪᴛᴇ', url='https://animebash.in'),
+            IKB('ᴄʜᴀɴɴᴇʟ', url='https://t.me/Anime_Bash'),
         ],
         [
-            IKB('ɪɴsᴛᴀɢʀᴀᴍ', url='https://instagram.com/soherusan'),
+            IKB('ɪɴsᴛᴀɢʀᴀᴍ', url='https://instagram.com/the_anime_bash'),
             IKB('ʜᴏᴍᴇ', 'call_start_or_go_back')
         ]
     ]
